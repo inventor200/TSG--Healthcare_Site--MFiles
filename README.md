@@ -1,1 +1,3 @@
 **FUN FACT:** In aerial combat, the "notch" refers to a direction of flight--relative to an incoming missile--which causes the defending aircraft to match the apparently velocity of the ground, according to the missile's sensors. Since a Fox-3 self-guided missile uses doppler shift patterns to detect targets against ground scatter, this can cause the defending aircraft to appear invisible. The missile will fly uselessly past, leaving the defending aircraft safely outside of the sensor cone.
+
+**FUN FACT:** Cellar spiders will bounce chaotically in thier webs when frightened, as this makes them harder to see and strike.
